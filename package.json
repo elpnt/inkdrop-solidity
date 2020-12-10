@@ -1,7 +1,7 @@
 {
   "name": "solidity",
   "main": "./lib/index",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Solidity mode for Inkdrop",
   "keywords": [],
   "repository": "https://github.com/elpnt/inkdrop-solidity",
