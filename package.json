@@ -1,7 +1,7 @@
 {
   "name": "solidity",
   "main": "index.js",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Solidity language mode for Inkdrop",
   "keywords": [],
   "repository": "https://github.com/elpnt/inkdrop-solidity",
