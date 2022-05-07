@@ -5,7 +5,7 @@
 
 ## Usage
 
-Specify a `solidity` tag in fenced code blocks.
+Specify `solidity` tag in fenced code block.
 
 ````
 ```solidity
@@ -16,8 +16,3 @@ contract MyContract {
 }
 ```
 ````
-
-## Changelog
-
-- 1.0.0
-  - first release
