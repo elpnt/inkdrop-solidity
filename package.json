@@ -7,7 +7,7 @@
   "repository": "https://github.com/elpnt/inkdrop-solidity",
   "license": "MIT",
   "scripts": {
-    "postinstall": "rimraf node_modules/codemirror"
+    "postinstall": "rimraf ./node_modules/codemirror"
   },
   "engines": {
     "inkdrop": "^5.3.1"
